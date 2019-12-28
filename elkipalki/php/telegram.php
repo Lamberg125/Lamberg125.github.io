@@ -2,7 +2,7 @@
 
 /* https://api.telegram.org/bot887731393:AAFYYSn_GEbe06m221hShVAXz8bxm7u0a6A/getUpdates,
 где, XXXXXXXXXXXXXXXXXXXXXXX - токен вашего бота, полученный ранее */
-
+echo "Error";
 $name = $_POST['user_name'];
 $phone = $_POST['user_message'];
 $email = $_POST['user_email'];
