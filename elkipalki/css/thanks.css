@@ -1,0 +1,12 @@
+.goindex
+{
+    font-size: 26px;
+    text-decoration: none;
+    color: #CA6144;
+    display: block;
+    text-align: center;
+}
+.goindex:hover
+{
+    text-decoration: none;
+}
